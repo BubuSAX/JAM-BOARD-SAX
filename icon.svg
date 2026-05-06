@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0a0a0f"/>
+  <text x="256" y="200" text-anchor="middle" font-family="system-ui" font-size="120" font-weight="700" fill="#4f8cff">JAM</text>
+  <text x="256" y="310" text-anchor="middle" font-family="system-ui" font-size="60" font-weight="500" fill="#22c589">SAX ALTO</text>
+  <text x="256" y="400" text-anchor="middle" font-size="80">&#9835;</text>
+</svg>
